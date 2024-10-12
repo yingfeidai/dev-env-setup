@@ -1,0 +1,20 @@
+{
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.5,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "onWindowChange",
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true
+  },
+  "eslint.enable": true,
+  "editor.formatOnPaste": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.startupEditor": "newUntitledFile",
+  "git.autofetch": false
+}
