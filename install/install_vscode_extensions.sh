@@ -18,7 +18,8 @@ extensions=(
     dprichard.codesnap
     nx-console.nx-console
     wix.vscode-import-cost
-    DavidAnson.vscode-markdownlint  # Markdown Lint extension
+    DavidAnson.vscode-markdownlint
+    bierner.markdown-mermaid
 )
 
 # Install each extension
